@@ -4,14 +4,14 @@ var man =
 		id: 1,
 		name:"The cosmo (Đen) quần short kaki",
 		code:"QSKK3622",
-		price:"250.000đ",
+		price:"257870.000đ",
 		image:"https://aoxuanhe.com/upload/product/axh-182/ao-so-mi-denim-nam-cao-cap.jpg"
 	},
 	{
 		id: 2,
 		name:"Quần baggy đen sang trọng QQ",
 		code:"QBGST34598342",
-		price:"398.000đ",
+		price:"345877.000đ",
 		image:"https://hidanz.com/wp-content/uploads/2021/09/ao-so-mi-nam-han-quoc7.jpg"
 	},
 	{
